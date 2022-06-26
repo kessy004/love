@@ -1,0 +1,235 @@
+
+
+body{
+    margin: 0;
+}
+#top{
+    width: 100%;
+    height: 40px;
+    background: rgb(185, 5, 5);
+    color: white;
+    
+}
+
+.fixed{
+    width: 1050px;
+    margin: 0 auto;
+    color:black;
+    
+    
+
+}
+
+.logo{
+    padding: 10px;
+    float: left;
+    
+}
+
+img{
+    font-weight: bold;
+    width: 75px;
+    
+}
+
+.signin{
+    float: left;
+    border-right: 1px solid rgb(179, 5, 5);
+    position:relative;
+    top: 10px;
+    padding-right: 350px;
+    color: white;
+    padding-left: 25px;
+}
+
+.inscription{
+    color: antiquewhite;
+    
+    
+
+}
+
+.inscription li{
+    float: left;
+    padding: 15px 5px 5px 10px;
+    border-right: 1px solid rgb(179, 5, 5);
+    
+    
+}
+
+.inscription ul{
+    list-style-type: none;
+    
+}
+
+.break{
+    clear: both;
+    
+}
+
+.search{
+    padding: 10px;
+    float: left;
+}
+
+input{
+    background-image: url(./search.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    
+}
+
+#topb{
+    width: 100%;
+        height: 140px;
+        background: hsl(0, 95%, 49%);
+        color: black;
+        float: left;
+        margin-top: -10px;
+        
+        
+        
+
+}
+
+ #header{
+     
+    font-size: 4em;
+    float: left;
+    position: relative;
+    top: -45px;
+    
+    
+    
+    
+}
+
+#uk{
+    font-size: 0.8em;
+}
+
+  .rss{
+      float: right;
+     margin-top: 40px;
+     font-size: 2rem;
+  }  
+    
+    
+    
+    #topicon li{
+        float:left ;
+        list-style: none;
+        color: black;
+        border-right: 1px solid #990000;
+        padding: 0 8px 0 6px;
+        
+    
+        
+        
+        
+    }
+
+    #topicon ul{
+        background-color: rgba(163, 40, 40, 0.89);
+        padding: 5px 0 0 6px;
+         height: 20px;
+         margin: 0;
+         position: relative;
+         top: -88px;
+        
+        
+        
+    
+        
+    }
+
+    #topicon{
+       
+    }
+    
+.selected{
+    background-color: whitesmoke;
+    float: left;
+    height: 20px;
+}
+
+
+#top2{
+    color: #535353;
+    font-size: 0.8em;
+    
+}
+
+ .date{
+     font-weight: bold;
+     font-size:1.5em;
+ }
+
+ h1{
+     color: #1F4F82;
+     font-size: 2.5em;
+ }
+
+ .get{
+     width: 250px;
+     height: 250px;
+     float: left;
+     
+     
+ }
+
+ .newsitem{
+     position: relative;
+     top: -15px;
+     left: 10px;
+     width: 200px;
+     float: left;
+     font-size: 1.1em;
+ }
+
+ a{
+     text-decoration: none;
+     color: #1F4F82;
+     
+ }
+
+ a:hover{
+     text-decoration: underline;
+ }
+ 
+.video{
+  background-image: url(./video\ icon.png);
+  background-repeat:no-repeat;
+  background-position: left;
+  padding-left: 20px;
+  
+}
+
+.links{
+    line-height: 1em;
+    width: 300px;
+    
+}
+
+.content{
+    background-image: url(./sound\ icon.png);
+    background-repeat: no-repeat;
+     background-position: left;
+     padding-left: 25px;
+}
+
+#watchlist{
+    background-color: #eeeeee;
+    float: right;
+    width: 300px;
+    position: relative;
+    top: -80px;
+}
+
+h2{
+    color: #505050;
+    margin: 10px 0 10px 10px;
+    font-size: 1.8em;
+
+}
+
